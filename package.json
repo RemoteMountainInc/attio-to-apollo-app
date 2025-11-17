@@ -1,0 +1,8 @@
+{
+  "name": "apollo-attio-sync",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "echo 'app.ts already exists'"
+  }
+}
+
